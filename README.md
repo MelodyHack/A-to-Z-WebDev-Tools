@@ -2,7 +2,7 @@
 This is a guide to help any new web developers with their learning process.
 
 ## First Things First!
-The Web Dev world can we a little overwhelming.. with all these new technologies, frameworks & libraries coming out every day!
+The Web Dev world can we a _little_ *overwhelming*.. with all these new technologies, frameworks & libraries coming out every day!
 
 
 
