@@ -2,7 +2,12 @@
 This is a guide to help any new web developers with their learning process.
 
 ## First Things First!
-The Web Dev world can bdz c                                     e a _little_ **overwhelming**.. with all these new technologies, frameworks & libraries coming out every day!
+The Web Dev world can be a _little_ **overwhelming**.. with all these new technologies, frameworks & libraries coming out every day!
+
+## freeCodeCamp 
+The first interactive tutorial (also project-based) that I recommend, is definetely freeCodeCamp. It gives you a first look at HTML, CSS, & Javascript, but also to Databases, Git, and JS frameworks such as Node.js, React.js, and D3.js.
+
+
 
 
 
