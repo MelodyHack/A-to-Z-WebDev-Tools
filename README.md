@@ -14,7 +14,13 @@ The first interactive tutorial (also project-based) that I recommend, is definet
 http://freecodecamp.org
 
 
+# HTML
 
+# CSS
+
+# Javascript
+
+#React.js
 
 # When you're feeling a little more advanced, here's some practice!
 
