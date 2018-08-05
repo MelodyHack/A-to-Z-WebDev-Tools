@@ -4,7 +4,7 @@ This is a guide to help any new web developers with their learning process.
 ## First Things First!
 The Web Dev world can be a _little_ **overwhelming**.. with all these new technologies, frameworks & libraries coming out every day!
 
-Before you start anywhere, have a look at this [**Developer Roadmap 2018**](https://github.com/kamranahmedse/developer-roadmap) that will help you get an idea of different paths you can take in web development and give you perspective about **front-end vs. backend (vs. full-stack** which is both).
+Before you start anywhere, have a look at this [**Developer Roadmap 2018**](https://github.com/kamranahmedse/developer-roadmap) that will help you get an idea of different paths you can take in web development and give you perspective about [**front-end vs. backend vs. full-stack**](https://mylearningcurve.quora.com/Front-End-vs-Back-End-vs-Full-Stack-Development).
 
 
 
